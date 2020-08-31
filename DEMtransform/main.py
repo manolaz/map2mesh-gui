@@ -3,7 +3,7 @@ import sys
 import os
 
 
-from PySide2.QtWidgets import QApplication, QMainWindow
+from PySide2.QtWidgets import QApplication, QMainWindow, QLabel
 from PySide2.QtCore import QFile
 from PySide2.QtUiTools import QUiLoader
 
@@ -23,6 +23,8 @@ class GeoRaster(QMainWindow):
 
 if __name__ == "__main__":
     app = QApplication([])
-    widget = GeoRaster()
-    widget.show()
+#    widget = GeoRaster()
+#    widget.show()
+#    label = QLabel("Map2Mesh")
+#    label.show()
     sys.exit(app.exec_())
