@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="SolarSystem.qml">../planets-qml/SolarSystem.qml</file>
+        <file alias="PlanetsMain.qml">../planets-qml/PlanetsMain.qml</file>
+        <file alias="PlanetButton.qml">../planets-qml/PlanetButton.qml</file>
+        <file alias="InfoSheet.qml">../planets-qml/InfoSheet.qml</file>
+        <file alias="StyledSlider.qml">../planets-qml/StyledSlider.qml</file>
+        <file alias="FpsDisplay.qml">../planets-qml/FpsDisplay.qml</file>
+        <file alias="Planet.qml">../planets-qml/Planet.qml</file>
+        <file alias="Ring.qml">../planets-qml/Ring.qml</file>
+        <file alias="PlanetsLight.qml">../planets-qml/PlanetsLight.qml</file>
+        <file alias="SunEffect.qml">../planets-qml/SunEffect.qml</file>
+        <file alias="PlanetEffect.qml">../planets-qml/PlanetEffect.qml</file>
+        <file alias="ShadowEffect.qml">../planets-qml/ShadowEffect.qml</file>
+        <file alias="PlanetFrameGraph.qml">../planets-qml/PlanetFrameGraph.qml</file>
+        <file alias="PlanetMaterial.qml">../planets-qml/PlanetMaterial.qml</file>
+        <file alias="planets.js">../planets-qml/planets.js</file>
+        <file alias="meshes/starfield.obj">../planets-qml/meshes/starfield.obj</file>
+        <file alias="meshes/ring.obj">../planets-qml/meshes/ring.obj</file>
+        <file alias="shaders/gl3/sun.frag">../planets-qml/shaders/gl3/sun.frag</file>
+        <file alias="shaders/gl3/sun.vert">../planets-qml/shaders/gl3/sun.vert</file>
+        <file alias="shaders/gl3/shadowmap.frag">../planets-qml/shaders/gl3/shadowmap.frag</file>
+        <file alias="shaders/gl3/shadowmap.vert">../planets-qml/shaders/gl3/shadowmap.vert</file>
+        <file alias="shaders/gl3/planetD.frag">../planets-qml/shaders/gl3/planetD.frag</file>
+        <file alias="shaders/gl3/planetD.vert">../planets-qml/shaders/gl3/planetD.vert</file>
+        <file alias="shaders/gl3/planetDB.frag">../planets-qml/shaders/gl3/planetDB.frag</file>
+        <file alias="shaders/gl3/planetDB.vert">../planets-qml/shaders/gl3/planetDB.vert</file>
+        <file alias="shaders/gl3/planetDS.frag">../planets-qml/shaders/gl3/planetDS.frag</file>
+        <file alias="shaders/gl3/planetDSB.frag">../planets-qml/shaders/gl3/planetDSB.frag</file>
+        <file alias="shaders/es2/sun.frag">../planets-qml/shaders/es2/sun.frag</file>
+        <file alias="shaders/es2/sun.vert">../planets-qml/shaders/es2/sun.vert</file>
+        <file alias="shaders/es2/planetD.frag">../planets-qml/shaders/es2/planetD.frag</file>
+        <file alias="shaders/es2/planetD.vert">../planets-qml/shaders/es2/planetD.vert</file>
+        <file alias="shaders/es2/planetDB.frag">../planets-qml/shaders/es2/planetDB.frag</file>
+        <file alias="shaders/es2/planetDB.vert">../planets-qml/shaders/es2/planetDB.vert</file>
+        <file alias="shaders/es2/planetDS.frag">../planets-qml/shaders/es2/planetDS.frag</file>
+        <file alias="shaders/es2/planetDSB.frag">../planets-qml/shaders/es2/planetDSB.frag</file>
+        <file alias="shaders/gl3/planetDShadow.frag">../planets-qml/shaders/gl3/planetDShadow.frag</file>
+        <file alias="shaders/gl3/planetDShadow.vert">../planets-qml/shaders/gl3/planetDShadow.vert</file>
+        <file alias="AppleTVInput.qml">../planets-qml/AppleTVInput.qml</file>
+    </qresource>
+</RCC>
