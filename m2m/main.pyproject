@@ -1,0 +1,3 @@
+{
+    "files": ["widget.py","Main.qml","MainForm.ui.qml","main.py","table_model.py"]
+}
